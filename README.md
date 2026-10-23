@@ -8,6 +8,18 @@ built with kimi k3.1.
 
 ---
 
+## preview
+
+![four views of the floating island diorama — wide shot of the whole island, the station entrance under a lamp post, a close up of the autumn tree and ticket booth, and a side view along the platform](preview/diorama-views.jpg)
+
+the island from four angles. a round chunk of earth floating in black void, low poly rock underside, autumn tree in orange and gold. the station building reads EMBER HALT with a clock above the door and warm light spilling from the windows. street lamps, a water tower, a wooden footbridge over the tracks, and the signal light at the platform edge.
+
+![frame sequence of the steam locomotive arriving at the platform — the green and gold engine rolling past, carriages with glowing windows, then the empty platform with a cat asleep on a bench](preview/train-sequence.jpg)
+
+frames from the arrival loop. the locomotive in deep green and gold pulls in past the signal, carriage windows glowing, then settles at the platform where the cat is asleep on the bench. it waits four seconds before pulling away into the far tunnel.
+
+---
+
 ## the prompt
 
 build a real-time 3d floating island diorama in a single html file using three.js from a cdn. no external models or textures, everything procedural and handcrafted in code.
